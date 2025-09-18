@@ -10,5 +10,6 @@ When a conversation hits the maximum length:
 4. Ensure [ai-chat-md-export](https://github.com/sugurutakahashi-1234/ai-chat-md-export) tool is installed (`npm install -g ai-chat-md-export`)
 5. `ai-chat-md-export -i .\conversations.json -p claude`
 6. Find and rename the most recent conversation's markdown file to conversation.md
-7. Open a chat with [continuation.md](continuation.md), attaching prompt.md and conversation.md
-8. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
+7. If the most recent day was started but not completed, consider trimming it out so you'll' start fresh in the new conversation
+8. Open a chat with [continuation.md](continuation.md), attaching prompt.md and conversation.md
+9. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
