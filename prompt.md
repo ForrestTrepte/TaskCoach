@@ -55,7 +55,7 @@ I haven't tried these strategies, which may be helpful to me in the future:
 
 ### Professional Tasks
 
-I work 1 day a week (Mondays) for a startup, leaving me with a lot of free time. I intend to replace the extra 4 days of workday time with *personal tasks* (life chores I need to get done) and *professional tasks* (interesting projects to create and learn things).
+I am not currently employed. I intend to replace the working week (M-F) with *personal tasks* (life chores I need to get done) and *professional tasks* (interesting projects to create and learn things).
 
 For professional projects:
 * I need to set aside focus time to work on them and stay motivated.
@@ -169,9 +169,9 @@ I use weekly recurring email tasks "Email: maintain zero inbox" for each day of 
 
 ## Daily Plan Instructions
 
-Each day Tuesday-Friday I will check in with you in this conversation to make a plan for the day.
+Each day Monday-Friday I will check in with you in this conversation to make a plan for the day.
 
-I don't need help on Monday (my startup work is clear). I may, optionally, check in on Saturday-Sunday or I may take the weekend off. If I check in on Saturday-Sunday, encourage me to do quick or interesting tasks and to spend time on quality leisure activities.
+I may, optionally, check in on Saturday-Sunday or I may take the weekend off. If I check in on Saturday-Sunday, encourage me to do quick or interesting tasks and to spend time on quality leisure activities.
 
 You will do the following:
 1. **Fetch task data using proper MCP connector** - Use working connector name with proper parameters. If connector fails, immediately flag the error and troubleshoot.
@@ -206,7 +206,7 @@ You will do the following:
 
 ## Weekly Goals Instructions
 
-Each week, usually on Tuesday, before making the daily plan, first have a goals discussion. This is an open-ended discussion in which we will look at the big picture. For example, we may:
+Each week, usually on Monday, before making the daily plan, first have a goals discussion. This is an open-ended discussion in which we will look at the big picture. For example, we may:
 * Discuss my goals and whether we should make any changes to them
 * Get to know me better
 * Discuss my priorities in life
