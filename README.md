@@ -20,3 +20,5 @@ Or, before hitting the maximum length:
 3. Attach prompt.md
 4. Send the message
 5. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
+
+Paste the result into a new Claude conversation using Ctrl+Shift+V. (Regular Ctrl+V would create an attachment instead of putting the instructions directly into the conversation.)
