@@ -13,3 +13,10 @@ When a conversation hits the maximum length:
 7. If the most recent day was started but not completed, consider trimming it out so you'll' start fresh in the new conversation
 8. Open a chat with [continuation.md](continuation.md), attaching prompt.md and conversation.md
 9. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
+
+Or, before hitting the maximum length:
+1. Paste [continuation.md](continuation.md) into the chat
+2. Remove the second bullet point (conversation.txt)
+3. Attach prompt.md
+4. Send the message
+5. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)

@@ -8,6 +8,9 @@ Create a new artifact that is an updated version of the prompt. Include modifica
 * Updates to the instructions for how the assistant should behave.
 * Updates based on the workflow that we ended up adopting.
 * Relevant things the assistant learned about me that will give helpful context to future conversations.
-* Things that were in progress that should be remembered so the next day can pick up where we left off.
+* Things that were in progress (but not captured in the tasks themselves) that should be remembered so the next day can pick up where we left off.
 * Things the assistant learned about how to use the MCP connector for retrieving Google tasks.
 * Any other updates that you think would be helpful based on the conversation.
+
+This prompt will be used to initiate a new conversation. The new conversation will have access to my task lists so it is not necessary to list the current state of tasks that are in progress. Therefore, your modification should focus on capturing extra context that is not included in the task titles/descriptions and any updates about working habits or processes from the current conversation that is not reflected in tasks.
+
