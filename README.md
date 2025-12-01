@@ -12,7 +12,7 @@ When a conversation hits the maximum length:
 6. Find and rename the most recent conversation's markdown file to conversation.md
 7. If the most recent day was started but not completed, consider trimming it out so you'll' start fresh in the new conversation
 8. Open a chat with [continuation.md](continuation.md), attaching prompt.md and conversation.md
-9. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
+9. Download the resulting artifiact (e.g. to replace `C:\s\TaskCoach\prompt.md`)
 
 Or, before hitting the maximum length:
 1. Paste [continuation.md](continuation.md) into the chat
@@ -20,5 +20,7 @@ Or, before hitting the maximum length:
 3. Attach prompt.md
 4. Send the message
 5. Download the resulting artifiact (e.g. to `C:\s\TaskCoach`)
+
+Review the result by diffing it with the previous version. Apply manual edits that come to mind based on your experience using the task coach.
 
 Paste the result into a new Claude conversation using Ctrl+Shift+V. (Regular Ctrl+V would create an attachment instead of putting the instructions directly into the conversation.)
