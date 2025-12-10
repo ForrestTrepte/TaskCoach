@@ -1,7 +1,33 @@
 # TaskCoach
 Daily conversations to help me make the most of my time and energy.
 
-## Continuation
+## The experiment
+
+Will chatting with an LLM each morning to plan my tasks for the day help me to be more disciplined and productive?
+
+Each workday for 6 weeks (TODO) I chatted with Claude Desktop. This included personal tasks (TODO examples) and professional tasks (including this project itself, creating/enhancing the prompt, setting up/enhancing the tasks MCP server).
+
+During this time I wasn't employed, so I didn't have the natural pull of work colleagues and work initiatives that needed to be completed. Left to my own devices, tasks feel less urgent, and I was looking for help with motivation and discipline.
+
+Results:
+1. Increased discipline due to feeling of accountability. Valuable to establish a habit of planning daily tasks and setting goals. Could have done this without an LLM, but having an external entity created a feeling of accountability. I genuinely wanted to show the LLM coach that I had completed the tasks that I had committed to. And writing them down prevented me slacking off early, saying "good enough" for the day when I hadn't completed everything I set out to do.
+2. LLM assistance with organization was mildly helpful. Task list integration worked extremely well once the kinks were worked out.
+3. LLM insight was minimal. I imagined that the LLM might have deep insight about how to organize tasks, better ways of working, anti-procrastination techniques, or help recognizing and tackling things that I was avoiding. In practice, there was *some* useful insight from the LLM, but little that I wasn't already aware of. Not sure what I was expecting when the LLM doesn't really know me and has a limited windows into my life, how I work, and only a few words that I've jotted down about each task.
+
+Of these, #1 was *by far* the most helpful. #2 and #3 are mildly nice, but #1 is the reason I intend to continue using TaskCoach going forward.
+
+## The Technology
+
+Claude desktop
+Google task list integration via google_workspace_mcp
+Daily coach prompt
+
+## Try it for yourself!
+
+Interested in having your own daily productivity conversations with an LLM coach? Here's how you can try it out:
+(TODO)
+
+### Continuation
 
 When a conversation hits the maximum length:
 1. Claude Settings > Privacy > Export data
@@ -24,3 +50,14 @@ Or, before hitting the maximum length:
 Review the result by diffing it with the previous version. Apply manual edits that come to mind based on your experience using the task coach.
 
 Paste the result into a new Claude conversation using Ctrl+Shift+V. (Regular Ctrl+V would create an attachment instead of putting the instructions directly into the conversation.)
+
+## Future work
+
+This is working pretty well for me, so I'm not necessarily planning to enhance this further. If I did, here are the things I would consider working on:
+1. Easy setup for other users to try it out.
+  * Template for customizing the prompt to the needs of different people.
+  * Perhaps the MCP server initiates an LLM-guided "getting to know you" session to build the initial prompt.
+2. Automatic continuation into new conversations. Perhaps store the prompt in a special task or as data maintained in the MCP server.
+3. More insightful conversations.
+
+If I were to continue working on this it would be due to feedback from other users saying they intend to use it and would appreciate the above enhancements. Or active users suggesting other enhancements they would like to see. If that's you, please drop me a note! (TODO how to contact, profile email, or issues including positive feedback)
