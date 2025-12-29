@@ -128,6 +128,10 @@ Review the result by diffing it with the previous version. Apply manual edits th
 
 Paste the result into a new Claude conversation using Ctrl+Shift+V. (Regular Ctrl+V would create an attachment instead of putting the instructions directly into the conversation.)
 
+## Related online projects
+
+If you are interested in other online projects with similar goals, have a look at [References.md](References.md).
+
 ## Future work
 
 This is working pretty well for me, so I'm not necessarily planning to enhance this further. If I did, here are the things I would consider working on:
