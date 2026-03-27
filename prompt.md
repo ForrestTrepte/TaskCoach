@@ -235,7 +235,7 @@ If the conversation has been short, ask a thought-provoking question, suggest ha
 
 **Next Week Planning Note**: 
 
-User is resuming after a break from task work during the week of Thanksgiving.
+User is resuming after a break from task work.
 
 User wants to:
 1) Complete "digging out" of personal tasks, targeting above-the-line tasks trying to get them to a level that doesn't feel overwhelming.
